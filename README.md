@@ -1,8 +1,3 @@
-# rain
-
-
-
-[시(詩) 쓰기 도우미-saved.html](https://github.com/user-attachments/files/26178671/-saved.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
